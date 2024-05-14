@@ -45,7 +45,7 @@ FavePhrase = "Hello World"
 
 ## Snake Case
 
-    ![1715649185033](image/CasingStyles/1715649185033.png)
+![1715649185033.](image/CasingStyles/1715649185033.png)
 
 Snake case separates each word with an underscore character (_).
 
